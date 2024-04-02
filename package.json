@@ -1,0 +1,15 @@
+{
+  "name": "goldenshulkerbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "GoldenShulkerBot.js",
+  "scripts": {
+    "start": "node GoldenShulkerBot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
